@@ -44,4 +44,20 @@ Trabajo con React, React Native, Django REST Framework y despliegues en AWS con 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=riadc33&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+---
+
+### 📈 Actividad reciente
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riadc33&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🐍 Mis contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riadc33/riadc33/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riadc33/riadc33/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/riadc33/riadc33/output/github-snake.svg" />
+</picture>
+
 </div>
