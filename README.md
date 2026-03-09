@@ -37,8 +37,8 @@ Trabajo con React, React Native, Django REST Framework y despliegues en AWS con 
 
 ### 📊 GitHub Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=riadc33&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riadc33&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=riadc33&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riadc33&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" />
 
 ---
 
